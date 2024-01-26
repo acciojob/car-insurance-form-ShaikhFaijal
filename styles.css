@@ -1,4 +1,4 @@
-/* #adoptionform{
+#container{
 	
     margin: 0 auto;
     padding: 20px;
@@ -10,16 +10,21 @@ body{
 }
 label{
 	margin-left:10px;
+	
 }
-input,option,select{
-	margin-left:70%;
+
 }
-#submit{
-	 display: block;
+#sub{
+	display: inline-block;
     margin: 15px auto;
     padding: 10px 20px;
     border: none;
     border-radius: 60px;
    background-color:white;
-
+}
+form {
+	text-align:center;
+	line-height:2;
+}
+h2{text-align:center;}
 /* Your CSS Code here. */ */
